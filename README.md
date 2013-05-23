@@ -1,4 +1,10 @@
-hacktrain
+Hacktrain
+
+API
 =========
 
-Hacktrain
+/trains(:date, :time, :origin, :destination)
+
+/trains(:long, :lat)
+
+/stations(:name)
